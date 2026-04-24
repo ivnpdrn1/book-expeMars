@@ -1,13 +1,12 @@
-## Capítulo 11  
+## Capítulo 11
+
 ### Encapsulación
 
 La señal seguía ahí.
 
 Pero ya no era lo único que importaba.
 
-El sistema había cambiado su comportamiento alrededor de ella.  
-No intentaba eliminarla.  
-No intentaba entenderla.
+El sistema había cambiado su comportamiento alrededor de ella. No intentaba eliminarla. No intentaba entenderla.
 
 La estaba rodeando.
 
@@ -17,11 +16,7 @@ Valeria lo vio con claridad.
 
 —Está conteniéndolo —respondió la figura.
 
-Pausa.
-
-—Esa es la diferencia.
-
----
+Esa era la diferencia.
 
 El entorno cambió nuevamente.
 
@@ -37,11 +32,7 @@ Contornos definidos que no existían antes.
 
 —Encapsulaciones —respondió la figura.
 
-Silencio.
-
-—El sistema está creando espacios… dentro del sistema.
-
----
+El sistema estaba creando espacios dentro del sistema.
 
 Una de las zonas se formó alrededor de la señal.
 
@@ -55,29 +46,17 @@ Sin contacto directo.
 
 —No la está bloqueando —dijo Valeria.
 
-—La está aislando funcionalmente.
+—La está aislando funcionalmente —respondió la figura.
 
-Pausa.
+Nada entraba. Nada salía sin control.
 
-—Nada entra. Nada sale… sin control.
-
----
-
-Malik observó otra zona.
-
-Distinta.
-
-Lejana a la señal.
+Malik observó otra zona, distinta, lejana a la señal.
 
 —¿Por qué hay más?
 
-La figura no respondió de inmediato.
+La figura tardó un instante en responder.
 
 —Porque no es la única incertidumbre.
-
-Silencio.
-
----
 
 Las encapsulaciones comenzaron a estabilizarse.
 
@@ -89,13 +68,7 @@ Sus propios comportamientos internos.
 
 —Esto no es solo protección —dijo Valeria.
 
-—No.
-
-—Es contención selectiva.
-
-—Exacto.
-
----
+—No —respondió la figura—. Es contención selectiva.
 
 Una de las zonas se activó.
 
@@ -111,21 +84,13 @@ Solo se percibía.
 
 —¿Por qué no está integrada al resto?
 
-Pausa.
-
 —Porque no necesita estarlo.
-
----
 
 Valeria cruzó los brazos.
 
-—Entonces estamos dividiendo el sistema… en partes que no se afectan entre sí.
+—Entonces estamos dividiendo el sistema en partes que no se afectan entre sí.
 
-—En partes que pueden fallar… sin comprometer al resto —corrigió la figura.
-
-Silencio.
-
----
+—En partes que pueden fallar sin comprometer al resto —corrigió la figura.
 
 La señal permanecía dentro de su propia encapsulación.
 
@@ -133,7 +98,7 @@ Sin cambiar.
 
 Sin reaccionar.
 
-Pero ahora… contenida.
+Pero ahora contenida.
 
 —¿Esto la detiene? —preguntó Valeria.
 
@@ -143,17 +108,11 @@ Pero ahora… contenida.
 
 —Limita lo que puede afectar.
 
----
-
 Malik frunció el ceño.
 
 —Eso suena a que estamos aceptando que existe.
 
-Pausa.
-
 —Lo estamos gestionando —respondió la figura.
-
----
 
 Las zonas comenzaron a interactuar.
 
@@ -167,11 +126,7 @@ Salidas.
 
 Filtros.
 
-—Nada se conecta libremente —dijo la voz—.
-
-—Todo pasa por un límite.
-
----
+—Nada se conecta libremente —dijo la voz—. Todo pasa por un límite.
 
 Valeria observó uno de esos puntos.
 
@@ -185,29 +140,19 @@ Preciso.
 
 —Reduce riesgo —respondió la figura.
 
----
-
-Silencio.
-
----
-
 Una de las encapsulaciones se contrajo.
 
 Otra se expandió.
 
 El sistema no era estático.
 
-Se ajustaba.
-
-Constantemente.
+Se ajustaba constantemente.
 
 —No son estructuras fijas —dijo Malik.
 
 —Son decisiones en tiempo real.
 
----
-
-Valeria miró la señal.
+Valeria volvió a mirar la señal.
 
 Ahora separada.
 
@@ -217,23 +162,7 @@ Controlada… hasta cierto punto.
 
 —No estamos eliminando el problema…
 
-La figura la miró.
-
-—Estamos evitando que se convierta en uno mayor.
-
----
-
-Pausa.
-
----
-
-—Décima regla —dijo finalmente.
-
-Pausa.
-
-—Cuando no puedes controlar algo… lo encapsulas.
-
----
+—Estamos evitando que se convierta en uno mayor —respondió la figura.
 
 El entorno se estabilizó.
 
@@ -247,40 +176,22 @@ Más cauteloso.
 
 Más segmentado.
 
----
-
 Valeria respiró profundo.
 
 —Esto no estaba en el diseño original.
 
 La figura no lo negó.
 
----
-
 Malik observó otra encapsulación formándose a lo lejos.
 
 —Y tampoco va a ser la última.
 
----
-
-Silencio.
-
----
-
-Porque todos entendieron lo mismo.
-
----
+Todos entendieron lo mismo.
 
 El sistema ya no solo estaba ejecutando.
 
----
-
 Estaba adaptando su propia arquitectura.
 
----
-
-Y eso significaba…
-
-que estaba aprendiendo a convivir
+Y eso significaba que estaba aprendiendo a convivir
 
 con lo desconocido.
