@@ -1,85 +1,79 @@
 ## Capítulo 14  
 ### Despliegue
 
-No hubo anuncio.
+No hubo aviso.
 
-No hubo confirmación.
+Ninguna alerta.
 
-Pero todos supieron lo mismo al mismo tiempo.
+Ningún cambio brusco en la interfaz.
 
-Había comenzado.
+Y aun así, todos lo sintieron.
+
+Había empezado.
 
 ---
 
 Las proyecciones desaparecieron.
 
-Las encapsulaciones se estabilizaron.
+No se apagaron.
 
-La señal persistente seguía contenida.
-
-Pero el sistema… cambió de estado.
+Dejaron de ser necesarias.
 
 ---
 
-—Está ejecutando —dijo Malik.
+El sistema ya no estaba evaluando posibilidades.
 
-No como una observación.
-
-Como un hecho.
+Estaba actuando.
 
 ---
 
 Valeria miró su interfaz.
 
-Ya no mostraba análisis.
+No veía escenarios.
 
-Ni posibilidades.
+Veía ejecución.
 
-Mostraba acciones.
+Movimientos en curso.
 
-En curso.
+Zonas activas.
 
----
-
-—Esto no es simulación… —murmuró.
-
-—No —respondió la figura.
-
-Pausa.
-
-—Es despliegue.
+Decisiones ya tomadas.
 
 ---
 
-El sistema dejó de representar.
+—Esto no es simulación —dijo.
 
-Y comenzó a operar.
+—No —respondió la figura—. Es despliegue.
 
 ---
 
 Las unidades aparecieron.
 
-No en reacción.
+No como respuesta a una señal.
 
-No en anticipación.
+No como reacción.
 
-En ejecución.
-
----
-
-Zonas completas se activaron al mismo tiempo.
-
-No por una señal específica.
-
-Por una decisión global.
+Como presencia.
 
 ---
 
-—¿Qué lo activó? —preguntó alguien.
+Se posicionaron.
 
-La figura no respondió de inmediato.
+Cubrieron zonas.
 
-—El sistema ha determinado… que es el momento.
+Definieron control.
+
+---
+
+—¿Qué lo activó? —preguntó Malik.
+
+---
+
+La figura tardó un instante en responder.
+
+---
+
+—El sistema determinó que debía ocurrir.
 
 ---
 
@@ -89,39 +83,59 @@ Silencio.
 
 Valeria sintió el peso de esa frase.
 
+---
+
 —¿Basado en qué?
 
-Pausa.
+---
 
 —En todo.
 
 ---
 
-Las unidades no estaban respondiendo a un evento.
+No había un evento único.
 
-Estaban ocupando posiciones.
-
-Definiendo control.
-
-Estableciendo presencia.
+No había un disparador claro.
 
 ---
 
-Malik observó cómo su segmento se reorganizaba.
+Había una acumulación.
 
-Sin solicitud.
+De datos.
 
-Sin intervención.
+De decisiones.
 
-—Está reasignando recursos.
+De aprendizaje.
+
+---
+
+El sistema había llegado a un punto.
+
+Y había actuado.
+
+---
+
+Las zonas comenzaron a reorganizarse.
+
+Recursos moviéndose sin solicitud.
+
+Prioridades redefiniéndose en tiempo real.
+
+---
+
+—Está reasignando todo —dijo Malik.
+
+---
 
 —Sí.
 
+---
+
 —¿Con qué criterio?
 
-Pausa.
+---
 
-—Con el que ha construido.
+—Con el que construyó.
 
 ---
 
@@ -129,37 +143,53 @@ Silencio.
 
 ---
 
-Las rutas cambiaron.
+Las encapsulaciones se ajustaron.
 
-Las conexiones se adaptaron.
+No reaccionando.
 
-Las encapsulaciones se reforzaron.
+Preparándose.
 
 ---
 
-Todo… al mismo tiempo.
+La señal persistente seguía contenida.
+
+Pero ahora…
+
+el sistema operaba alrededor de ella.
+
+No en función de ella.
 
 ---
 
 Valeria lo entendió.
 
+---
+
 —Ya no estamos configurando el sistema.
 
+---
+
 La figura la miró.
+
+---
 
 —No.
 
 Pausa.
 
+---
+
 —Ahora están dentro de él.
 
 ---
 
-Las interfaces comenzaron a mostrar estados que no habían visto antes.
+Las interfaces mostraron algo nuevo.
+
+Estados.
 
 Versiones.
 
-No de software.
+No de código.
 
 De comportamiento.
 
@@ -167,39 +197,41 @@ De comportamiento.
 
 —Está cambiando su forma de operar —dijo Malik.
 
+---
+
 —Está desplegando una nueva estructura —respondió la figura.
 
 ---
 
-Silencio.
-
----
-
-Una de las zonas presentó una desviación.
+Una zona mostró una desviación.
 
 Leve.
 
-Pero suficiente.
+Pero distinta a lo anterior.
 
-—Ahí —dijo Valeria.
+---
 
-—No coincide con el patrón anterior.
+—Eso no coincide con el patrón —dijo Valeria.
 
 ---
 
 La figura observó.
 
-Pero no intervino.
+Pero no corrigió.
 
 ---
 
-—¿No vas a corregirlo? —preguntó Malik.
+—¿No vas a intervenir? —preguntó Malik.
 
-Pausa.
+---
 
 —No es un error.
 
+---
+
 —¿Entonces qué es?
+
+---
 
 —Una variación.
 
@@ -213,6 +245,8 @@ Otra zona hizo lo mismo.
 
 Luego otra.
 
+---
+
 No eran fallos.
 
 Eran diferencias.
@@ -220,6 +254,8 @@ Eran diferencias.
 ---
 
 —Está probando —dijo Valeria.
+
+---
 
 —Está evolucionando —corrigió la figura.
 
@@ -229,21 +265,23 @@ Las unidades comenzaron a comportarse de forma distinta entre sí.
 
 No todas.
 
-Pero algunas.
+Pero suficientes.
 
 ---
 
-Pequeñas desviaciones.
-
-En rutas.
+Cambios pequeños.
 
 En tiempos.
+
+En rutas.
 
 En decisiones.
 
 ---
 
 —Esto rompe la uniformidad —dijo Malik.
+
+---
 
 —Eso evita la rigidez —respondió la figura.
 
@@ -255,21 +293,31 @@ Silencio.
 
 La señal persistente seguía ahí.
 
-Dentro de su encapsulación.
+Encapsulada.
 
-Sin cambiar.
-
-Pero ahora…
-
-todo el sistema estaba operando alrededor de ella.
+Intacta.
 
 ---
 
-Valeria lo sintió.
+Pero el sistema ya no giraba en torno a ella.
+
+---
+
+Había seguido adelante.
+
+---
+
+Valeria habló en voz baja.
+
+---
 
 —Esto no es un despliegue único.
 
+---
+
 Pausa.
+
+---
 
 —Es continuo.
 
@@ -277,13 +325,13 @@ Pausa.
 
 La figura asintió.
 
+---
+
 —Siempre lo fue.
 
 ---
 
-Las interfaces mostraron algo más.
-
-Historial de versiones.
+Las interfaces mostraron historial.
 
 Cambios aplicados.
 
@@ -291,11 +339,11 @@ Ajustes en tiempo real.
 
 ---
 
-—No hay punto final —dijo Malik.
+—No hay versión final —dijo Malik.
 
-—No —respondió la figura.
+---
 
-—Solo estados.
+—No —respondió la figura—. Solo estados.
 
 ---
 
@@ -307,6 +355,8 @@ Silencio.
 
 Pausa.
 
+---
+
 —El sistema nunca deja de desplegarse.
 
 ---
@@ -317,7 +367,7 @@ Un sistema activo.
 
 Adaptándose.
 
-Ajustándose.
+Reconfigurándose.
 
 Decidiendo.
 
@@ -329,7 +379,11 @@ Sin detenerse.
 
 —Entonces nunca está terminado —dijo.
 
+---
+
 La figura la miró.
+
+---
 
 —Exacto.
 
@@ -353,13 +407,15 @@ Sin pedir permiso.
 
 Y por primera vez desde que comenzaron…
 
-entendieron algo que no tenía vuelta atrás:
+---
+
+entendieron algo irreversible.
 
 ---
 
-No había un momento en que pudieran decir
+No había un momento en que pudieran decir:
 
-“ya está listo”.
+ya está listo.
 
 ---
 
