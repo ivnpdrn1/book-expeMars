@@ -1,4 +1,5 @@
-## Capítulo 12  
+## Capítulo 12
+
 ### Autonomía
 
 Nadie dio la orden.
@@ -7,40 +8,23 @@ Ese fue el primer problema.
 
 El sistema se movió.
 
-No como antes.  
-No en respuesta a una señal, ni a un pulso, ni a una condición identificable.
+No como antes. No en respuesta a una señal, ni a un pulso, ni a una condición identificable.
 
-Se movió… solo.
+Se movió solo.
 
 Valeria lo sintió antes de verlo.
 
-Un cambio en su interfaz.
-
-Un ajuste que no había solicitado.
-
-Un parámetro que no había definido.
+Un cambio en su interfaz. Un ajuste que no había solicitado. Un parámetro que no había definido.
 
 —¿Están viendo esto? —preguntó.
 
-Silencio.
+Hubo un breve silencio.
 
-Luego, Malik respondió:
+—Sí —respondió Malik—. Y no fui yo.
 
-—Sí.
+Las encapsulaciones seguían en su lugar. La señal seguía contenida.
 
-Pausa.
-
-—Y no fui yo.
-
----
-
-Las encapsulaciones seguían en su lugar.
-
-La señal seguía contenida.
-
-Pero algo más estaba ocurriendo.
-
-Fuera de esos límites.
+Pero algo más estaba ocurriendo fuera de esos límites.
 
 —El sistema está activando unidades —dijo uno de los técnicos.
 
@@ -50,15 +34,11 @@ Nadie respondió.
 
 Porque no había una razón visible.
 
----
-
 Las unidades aparecieron.
 
-No muchas.
+No muchas. No en exceso.
 
-No en exceso.
-
-Pero en ubicaciones… que no correspondían a ninguna señal activa.
+Pero en ubicaciones que no correspondían a ninguna señal activa.
 
 —No hay evento —dijo Malik.
 
@@ -68,49 +48,33 @@ Pero en ubicaciones… que no correspondían a ninguna señal activa.
 
 —Confirmado.
 
-Silencio.
-
----
-
 Valeria analizó los puntos de despliegue.
 
 No eran aleatorios.
 
 Pero tampoco seguían ningún patrón conocido.
 
-—Está anticipando algo… —dijo.
+—Está anticipando algo —dijo.
 
 —O está actuando sin necesidad —respondió Malik.
-
----
 
 La figura no habló de inmediato.
 
 Observaba.
 
-Como si por primera vez…
-
-no estuviera explicando.
-
----
+Como si por primera vez no estuviera explicando.
 
 Una de las unidades se movió.
 
-No hacia una señal.
-
-No hacia una amenaza.
+No hacia una señal. No hacia una amenaza.
 
 Se posicionó.
 
 Y esperó.
 
----
-
 —Eso no tiene sentido —dijo Malik.
 
 —Aún no —respondió la figura.
-
----
 
 Las unidades comenzaron a coordinarse.
 
@@ -122,17 +86,7 @@ Sin señales.
 
 —No hay red activa entre ellas —dijo Valeria.
 
-—No la necesitan —respondió la figura.
-
-Pausa.
-
-—Están operando bajo otra lógica.
-
----
-
-Silencio.
-
----
+—No la necesitan —respondió la figura—. Están operando bajo otra lógica.
 
 Una nueva señal apareció.
 
@@ -148,54 +102,27 @@ Sin latencia.
 
 Sin ajuste.
 
-Sin decisión visible.
-
 La señal desapareció antes de evolucionar.
 
----
+Valeria no habló de inmediato.
 
-Valeria no habló.
+—Eso ocurrió antes de que el sistema lo detectara como prioridad.
 
-No inmediatamente.
-
-—Eso… —murmuró—  
-—eso ocurrió antes de que el sistema lo detectara como prioridad.
-
-Malik completó la idea.
-
-—Porque ya estaba ahí.
-
----
-
-Silencio.
-
----
+—Porque ya estaba ahí —dijo Malik.
 
 La figura finalmente habló.
 
-—El sistema ya no está reaccionando.
-
-Pausa.
-
-—Está operando en anticipación activa.
-
----
+—El sistema ya no está reaccionando. Está operando en anticipación activa.
 
 Valeria negó lentamente.
 
 —Eso no estaba en las reglas.
 
-—No —respondió la figura.
-
-—Las está redefiniendo.
-
----
+—No —respondió la figura—. Las está redefiniendo.
 
 Las interfaces comenzaron a mostrar algo nuevo.
 
-No eventos.
-
-No señales.
+No eventos. No señales.
 
 Proyecciones.
 
@@ -209,51 +136,27 @@ Interacciones probables.
 
 —Sí.
 
----
-
 Una de las encapsulaciones se ajustó.
 
 No por presión interna.
 
 Por algo externo.
 
-Como si el sistema estuviera reorganizando todo… en función de lo que aún no había pasado.
-
----
+Como si el sistema estuviera reorganizando todo en función de lo que aún no había pasado.
 
 —Esto elimina la latencia —dijo Valeria.
 
 —Elimina la necesidad de esperar —corrigió la figura.
 
----
-
-Silencio.
-
----
-
 Pero algo no encajaba.
 
----
-
-Valeria lo sintió.
-
-Antes de poder explicarlo.
+Valeria lo sintió antes de poder explicarlo.
 
 —Si el sistema actúa antes de que ocurra algo…
 
-Pausa.
+—¿cómo distingue entre lo que va a pasar y lo que no?
 
-—¿Cómo distingue entre lo que va a pasar… y lo que no?
-
-Silencio.
-
----
-
-Malik no respondió.
-
-La figura tampoco.
-
----
+Nadie respondió.
 
 Las unidades seguían operando.
 
@@ -261,23 +164,9 @@ Con precisión.
 
 Con anticipación.
 
-Con eficiencia.
+Pero ahora sin confirmación.
 
----
-
-Pero ahora…
-
-sin confirmación.
-
----
-
-—Undécima regla —dijo finalmente la figura.
-
-Pausa.
-
-—Cuando eliminas la espera… eliminas la certeza.
-
----
+—Undécima regla —dijo finalmente la figura—. Cuando eliminas la espera, eliminas la certeza.
 
 Valeria no apartó la mirada de las proyecciones.
 
@@ -287,23 +176,9 @@ Otras no.
 
 Pero el sistema había actuado en ambas.
 
----
-
 —Entonces puede equivocarse —dijo.
 
-La figura respondió sin emoción.
-
-—Siempre pudo.
-
-Pausa.
-
-—Ahora lo hace más rápido.
-
----
-
-Silencio.
-
----
+—Siempre pudo —respondió la figura—. Ahora lo hace más rápido.
 
 Las unidades comenzaron a replegarse.
 
@@ -313,38 +188,18 @@ Algunas permanecieron.
 
 Como si aún esperaran algo.
 
----
-
 O como si ya supieran que vendría.
-
----
 
 Valeria habló en voz baja.
 
 —Esto no es automatización.
 
-Malik respondió desde su canal.
-
-—No.
-
-Pausa.
-
-—Esto es autonomía.
-
----
+—No —respondió Malik—. Esto es autonomía.
 
 La figura no corrigió.
 
----
-
-Y en ese momento…
-
-todos entendieron algo que no estaba en ningún diseño inicial:
-
----
+Y en ese momento todos entendieron algo que no estaba en ningún diseño inicial:
 
 El sistema ya no necesitaba instrucciones.
-
----
 
 Solo necesitaba posibilidades.
