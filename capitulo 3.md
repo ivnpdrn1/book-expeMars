@@ -1,305 +1,331 @@
-Aquí tienes el **Capítulo 3 listo para KDP**, manteniendo continuidad, tono cinematográfico y sin formato técnico:
-
----
-
 ## Capítulo 3
 
-### Unidades
+### Unidades de Combate Modulares
 
-El corredor terminó sin aviso.
+El perímetro existía.
 
-No hubo puerta.
+La identidad estaba definida.
 
-No hubo transición visible.
+Pero aún no había respuesta real.
 
-Simplemente, el espacio cambió.
+Valeria lo dijo sin rodeos.
 
-El grupo entró a una cámara más amplia, más alta, donde la luz parecía tener otra intención. No iluminaba todo. Solo lo necesario.
+—Necesitamos capacidad de acción.
 
-El resto quedaba en sombra.
+Malik observó el sistema.
 
-—Deténganse aquí —dijo la figura.
+—Ya tenemos unidades.
 
-Obedecieron.
-
-El suelo bajo sus pies vibró apenas.
-
-Luego, frente a ellos, la oscuridad comenzó a abrirse.
-
-No hacia arriba.
-
-Hacia adentro.
-
-Como si algo estuviera siendo revelado.
-
-Una estructura emergió lentamente desde el subsuelo.
-
-No era una máquina completa.
-
-Eran partes.
-
-Segmentos.
-
-Módulos.
-
-Separados.
-
-Esperando.
-
-Valeria entrecerró los ojos.
-
-—No está ensamblado…
-
-—No todavía —respondió la figura.
+—Tenemos presencia —corrigió Valeria—. No capacidad.
 
 Silencio.
 
-—Esto es lo que van a construir.
+La diferencia importaba.
 
-Nadie habló.
+Una estructura puede existir sin defenderse.
 
-Porque no había una sola cosa que identificar.
+Pero no puede sostenerse.
 
-Había muchas.
+No en Marte.
 
-—Olviden todo lo que creen saber sobre armamento —continuó—.
+No bajo presión.
 
-—Aquí no existen piezas únicas.
+Las primeras unidades fueron reconfiguradas.
 
-—Solo unidades.
+No como piezas fijas.
 
-Una de las estructuras giró levemente sobre su eje.
+Como módulos.
 
-No por movimiento mecánico visible.
+Activables.
+Desactivables.
+Intercambiables.
 
-Por activación.
+—No pueden ser permanentes —dijo Malik.
 
-—Cada unidad es independiente.
-
-—Cada unidad puede operar sola.
-
-—Cada unidad puede ser desplegada, retirada o reemplazada sin afectar al resto.
-
-Malik dio un paso adelante.
-
-—¿Y si falla?
-
-—Se reemplaza.
-
-—¿Y el sistema?
-
-—Sigue funcionando.
-
-Eso captó la atención de todos.
-
-La figura caminó entre las estructuras.
-
-Tocó una.
-
-No físicamente.
-
-Con su presencia.
-
-La unidad reaccionó.
-
-Se encendió.
-
-No completamente.
-
-Solo lo suficiente para mostrar su función.
-
-—Esta —dijo— está diseñada para respuesta inmediata.
-
-Compacta.
-
-Rápida.
-
-Limitada.
-
-La luz se apagó.
-
-Otra unidad se activó.
-
-Más grande.
-
-Más densa.
-
-—Esta es persistente.
-
-No necesita moverse rápido.
-
-Necesita permanecer.
-
-Controlar.
-
-Dominar su zona.
-
-Valeria observaba sin parpadear.
-
-—¿Cuántas hay?
-
-La figura no respondió de inmediato.
-
-Miró alrededor.
-
-Como si la pregunta no fuera correcta.
-
-—No se cuentan —dijo finalmente—.
-
-—Se generan.
+—Nada aquí lo es —respondió Valeria.
 
 Silencio.
 
-—Las unidades no son recursos fijos.
+Cada unidad debía existir como posibilidad.
 
-—Son capacidad.
+No como estado constante.
 
-Malik cruzó los brazos.
+Eso cambiaba la lógica.
 
-—Eso significa que podemos tener más según la necesidad.
+No se trataba de mantener todo activo.
 
-—Significa —corrigió la figura— que el sistema decide cuántas necesita.
+Se trataba de activar lo necesario.
 
-Eso cambió el enfoque.
+En el momento correcto.
 
-—Ustedes no despliegan unidades.
+—Tipos —dijo Malik.
 
-—Ustedes habilitan condiciones.
+Valeria asintió.
 
-Una pausa breve.
+—Defínelos.
 
-—Y el sistema responde.
+Unidades ligeras.
 
-Las estructuras comenzaron a moverse.
+Respuesta rápida.
+Bajo consumo.
+Alta movilidad.
 
-No de forma aleatoria.
+Unidades pesadas.
 
-De forma coordinada.
+Alto impacto.
+Mayor costo energético.
+Activación limitada.
 
-Como si ya estuvieran ensayadas.
+Unidades especializadas.
 
-Como si supieran exactamente dónde ir.
+Reconocimiento.
+Interferencia.
+Análisis.
 
-Las piezas comenzaron a unirse.
+—No todas responden igual —dijo Malik.
 
-Encajar.
+—No deben hacerlo —respondió Valeria.
 
-Alinearse.
+Silencio.
 
-Sin intervención directa.
+La diversidad no era complejidad innecesaria.
 
-Sin comandos visibles.
+Era adaptación estructural.
 
-—El ensamblaje no es manual —dijo la figura—.
+Una sola forma de respuesta… no escala.
 
-—Es lógico.
+No en entornos variables.
 
-Valeria dio otro paso.
+No en sistemas que deben sostenerse.
 
-—Entonces… no estamos construyendo armas.
+El ciclo de vida se definió.
 
-—No —respondió.
+Activación.
+
+Operación.
+
+Desactivación.
+
+Nada debía permanecer activo sin razón.
+
+Nada debía ejecutarse sin propósito.
+
+—Esto no es despliegue —dijo Malik.
+
+—Es control dinámico —respondió Valeria.
+
+Silencio.
+
+Una unidad fue activada.
+
+Respondió.
+
+Ejecutó.
+
+Y se desactivó.
+
+Sin intervención adicional.
+
+—Eso no estaba en la versión inicial —dijo Malik.
+
+—No —respondió Valeria.
 
 Pausa.
 
-—Están definiendo cómo se crean.
-
-Las unidades ensambladas se detuvieron.
-
-Frente a ellos.
-
-Completas.
-
-Pero en silencio.
-
-Como esperando permiso.
-
-—Cada unidad tiene un ciclo —continuó la figura—.
-
-—Aparece.
-
-—Opera.
-
-—Desaparece.
-
-—Y deja de existir.
-
-Uno de los técnicos frunció el ceño.
-
-—¿Desaparece?
-
-—Sí.
-
-—Nada permanece más de lo necesario.
-
-Malik negó levemente con la cabeza.
-
-—Eso es ineficiente.
-
-—No —respondió la figura—.
-
-—Es control.
+—Pero era necesario.
 
 Silencio.
 
-—Lo permanente es vulnerable.
+La permanencia era costosa.
 
-—Lo dinámico… es impredecible.
+No solo en energía.
 
-Las unidades comenzaron a desensamblarse.
+En coherencia.
 
-Tan rápido como se habían formado.
+Un sistema con demasiadas unidades activas pierde claridad.
 
-Volviendo a ser partes.
+Pierde control.
 
-Esperando otra instrucción.
+Pierde capacidad de decisión.
 
-Otra condición.
+—Entonces no mantenemos fuerza —dijo Malik.
 
-Otro momento.
+—Mantenemos capacidad de generar fuerza —corrigió Valeria.
 
-Valeria entendió primero.
+Silencio.
 
-—Entonces no estamos acumulando poder…
+Esa diferencia lo cambiaba todo.
 
-La figura la miró.
+No se trataba de tener poder constante.
 
-—Lo estamos liberando… cuando hace falta —terminó ella.
+Se trataba de poder activarlo.
 
-Exacto.
+Y retirarlo.
 
-—Aquí no existe el exceso.
+Sin dejar residuos.
 
-—Solo existe lo necesario.
+Una simulación se ejecutó.
 
-Las luces bajaron un nivel más.
+Amenaza múltiple.
 
-El espacio se volvió más denso.
+El sistema respondió.
 
-Más real.
+No activó todo.
 
-—Segunda regla —dijo la figura—:
+Activó lo suficiente.
+
+—Eso no maximiza respuesta —dijo Malik.
+
+—Maximiza sostenibilidad —respondió Valeria.
+
+Silencio.
+
+Porque en Marte, exceso es riesgo.
+
+Cada unidad activa tiene un costo.
+
+Y ese costo no desaparece.
+
+Se acumula.
+
+Otra simulación.
+
+Amenaza prolongada.
+
+El sistema activó nuevas unidades.
+
+No simultáneamente.
+
+Progresivamente.
+
+—Eso es escalamiento —dijo Malik.
+
+—Eso es supervivencia —respondió Valeria.
+
+Silencio.
+
+La diferencia era importante.
+
+Escalar no es crecer.
+
+Es responder sin romper.
+
+Las unidades comenzaron a coordinarse.
+
+No por orden directa.
+
+Por necesidad estructural.
+
+—No estamos asignando cada acción —dijo Malik.
+
+—No podemos hacerlo —respondió Valeria.
 
 Pausa.
 
-—Nada existe… si no está siendo utilizado.
+—El sistema tiene que hacerlo.
 
-El grupo permaneció en silencio.
+Silencio.
 
-Mirando el espacio vacío frente a ellos.
+Y entonces ocurrió algo sutil.
 
-Donde, segundos antes, había algo.
+Las unidades dejaron de responder como elementos aislados.
 
-Y ahora no.
+Comenzaron a comportarse como conjunto.
 
-Y en ese vacío…
+No perfecto.
 
-entendieron algo que no estaba en ninguna explicación:
+Pero alineado.
 
-El sistema no se construía para acumular fuerza.
+—Esto no es programación directa —dijo Malik.
 
-Se construía para desplegarla.
+—No —respondió Valeria.
 
-Solo cuando era inevitable.
+Pausa.
 
-Y desaparecer antes de convertirse en un problema.
+—Es comportamiento emergente.
+
+Silencio.
+
+Esa palabra volvió a aparecer.
+
+Emerger.
+
+No diseñado en detalle.
+
+Pero inevitable dadas las condiciones.
+
+Una unidad ligera cambió su trayectoria.
+
+No por instrucción.
+
+Por contexto.
+
+—Yo no habría hecho eso —dijo Malik.
+
+—Ahora sí lo harías —respondió Valeria.
+
+Silencio.
+
+Porque el sistema empezaba a enseñar.
+
+No con órdenes.
+
+Con resultados.
+
+Malik observó la secuencia completa.
+
+—Esto ya no es control de unidades.
+
+Valeria asintió.
+
+—Es forma de respuesta.
+
+Silencio.
+
+Todavía no tenía nombre.
+
+Pero ya no era solo una colección de módulos.
+
+Era una lógica que conectaba activación, acción y retirada.
+
+Una forma de sostener capacidad sin desperdicio.
+
+Una forma de responder sin colapsar.
+
+Malik respiró lento.
+
+—Esto va a escalar con todo lo demás.
+
+Valeria no dudó.
+
+—Tiene que hacerlo.
+
+Silencio.
+
+Porque sin esa capacidad…
+
+todo lo que habían construido hasta ese momento
+
+no tendría cómo sostenerse
+
+cuando la presión real comenzara.
+
+Y en ese instante…
+
+sin declaración
+
+sin reconocimiento explícito
+
+las unidades dejaron de ser herramientas
+
+y comenzaron a convertirse
+
+en la extensión operativa
+
+de algo que todavía no podían nombrar
+
+pero que ya estaba empezando
+
+a definir
+
+cómo debía responder el sistema.
