@@ -1,191 +1,288 @@
-Aquí tienes el **Capítulo 1 listo para KDP**, limpio, sin líneas, con formato narrativo editorial:
+Perfecto — vamos a empezar desde el **Capítulo 1**, manteniendo:
+
+* tono cinematográfico
+* narrativa limpia (KDP, sin líneas)
+* introducción sutil de NUBELAI (sin explicarlo todavía)
+* base conceptual alineada con todo lo que ya construiste
 
 ---
 
 ## Capítulo 1
 
-### El Desembarco
+### El Desembarco: El Territorio como Sistema
 
-El silencio no era natural.
+No llegaron a Marte para explorar.
 
-No en Marte.
+Llegaron para sostener algo.
 
-El viento existía, pero no se escuchaba. Se sentía. Una presión constante contra el traje, como si el planeta intentara recordarles que no pertenecían allí.
+La nave descendió sin ceremonia.
 
-La nave había aterrizado hacía exactamente diecisiete minutos.
+No había nadie esperando.
+No había señal de bienvenida.
+No había margen para error.
 
-Nadie hablaba.
-
-Doce personas. Doce técnicos. Doce perfiles distintos.
-
-Y ninguno sabía realmente por qué estaba allí.
-
-Valeria inhaló más profundo de lo normal. El visor de su casco reaccionó de inmediato, empañándose levemente.
-
-—Esto no es una misión de exploración… —murmuró, sin abrir el canal general.
-
-Nadie respondió.
-
-Porque todos ya lo sabían.
-
-La compuerta trasera se abrió por completo.
-
-El horizonte rojo se extendía infinito, plano, brutalmente vacío. No había estructuras. No había señales. No había historia.
-
-Solo espacio.
-
-Demasiado espacio.
-
-—Equipo, en formación —dijo una voz desconocida en el canal.
-
-No venía de la nave.
-
-Venía de afuera.
-
-Se giraron al mismo tiempo.
-
-A unos cuarenta metros, sobre una elevación natural de roca erosionada, había una figura.
-
-Inmóvil.
-
-Esperándolos.
-
-—¿Eso estaba ahí antes? —preguntó alguien.
-
-—Negativo —respondió otro—. No en el descenso.
-
-La figura comenzó a caminar hacia ellos.
-
-Sin prisa.
-
-Como alguien que no tiene nada que temer.
-
-Cuando estuvo lo suficientemente cerca, la transmisión cambió automáticamente a un canal cifrado.
-
-Un nivel que ninguno de ellos había visto antes.
-
-—Bienvenidos —dijo la voz.
-
-No era militar.
-
-No era política.
-
-Era técnica.
+Solo superficie.
 
 Fría.
+Vacía.
+Definitiva.
 
-Precisa.
+Valeria fue la primera en salir.
 
-—Mi nombre no es relevante —continuó—. Lo que sí lo es… es por qué están aquí.
+No miró el horizonte.
 
-Nadie se movió.
+Miró el suelo.
 
-—Ustedes no fueron enviados para explorar Marte.
+—Aquí es donde empieza —dijo.
 
-—Fueron enviados para controlarlo.
+Malik descendió detrás.
 
-El impacto no fue emocional.
+No respondió.
 
-Fue inmediato.
+Ya lo sabía.
 
-Fue comprensión.
+No estaban frente a un territorio.
 
-—Durante los últimos dieciocho meses —continuó—, la Tierra ha operado bajo la suposición de que esta misión no existía. Y debe seguir siendo así.
+Estaban frente a un sistema.
 
-—Porque si alguien entiende lo que vamos a construir aquí… no tendremos tiempo de terminarlo.
+Uno que no perdonaba.
 
-Valeria dio un paso adelante.
+Uno que no se ajustaba.
 
-—¿Construir qué?
+Uno que no esperaba.
 
-La figura se detuvo. Los miró a todos. Uno por uno.
+El aire no era respirable.
+La temperatura no era tolerable.
+La gravedad no era familiar.
 
-Como evaluando.
+Nada estaba diseñado para ellos.
 
-—Un sistema.
+Y eso lo cambiaba todo.
+
+Durante años, habían trabajado en entornos controlados.
+
+Simulaciones.
+Modelos.
+Sistemas que respondían dentro de límites conocidos.
+
+Marte no tenía límites conocidos.
+
+Tenía condiciones.
+
+Y esas condiciones no podían ser negociadas.
+
+—Primera regla —dijo Valeria—. Definir el perímetro.
+
+Malik activó el primer mapa.
+
+No era grande.
+
+No podía serlo.
+
+El sistema aún no existía.
+
+Solo tenían un punto.
+
+Y ese punto debía sostenerse.
+
+—Zona uno —confirmó.
 
 Silencio.
 
-—No una base.
+No por falta de actividad.
 
-—No un laboratorio.
+Por concentración.
 
-—No un asentamiento.
+Cada acción importaba.
+
+Cada decisión construía o debilitaba lo que vendría después.
+
+No había redundancia.
+
+No había respaldo externo.
+
+Todo comenzaba ahí.
+
+Y si fallaba…
+
+no habría segunda iteración.
+
+Las primeras unidades fueron desplegadas.
+
+No como defensa.
+
+Como extensión.
+
+Sensores.
+Módulos de soporte.
+Estructuras básicas.
+
+Nada espectacular.
+
+Todo esencial.
+
+—No estamos construyendo una base —dijo Malik.
+
+Valeria negó.
+
+—Estamos delimitando un sistema.
+
+Silencio.
+
+La diferencia no era semántica.
+
+Era estructural.
+
+Una base puede crecer.
+
+Un sistema debe sostenerse.
+
+Y eso implicaba algo más.
+
+Cada elemento debía poder operar sin depender completamente de otro.
+
+Cada decisión debía considerar no solo el momento…
+
+sino lo que permitiría después.
+
+El primer perímetro quedó definido.
+
+No por tamaño.
+
+Por estabilidad.
+
+—Esto es todo lo que podemos sostener —dijo Malik.
+
+Valeria observó el contorno.
+
+No parecía mucho.
+
+Pero era suficiente.
+
+—Por ahora —respondió.
+
+Silencio.
+
+Las primeras señales comenzaron a fluir.
+
+Datos simples.
+
+Temperatura.
+Presión.
+Variaciones mínimas.
+
+Pero constantes.
+
+—Esto no se detiene —dijo Malik.
+
+—No —respondió Valeria.
 
 Pausa.
 
-—Un sistema de defensa autónomo.
+—Y nosotros tampoco podemos hacerlo.
 
-El peso de las palabras quedó suspendido en el aire.
+El sistema inicial comenzó a tomar forma.
 
-—Marte no es el objetivo —continuó—.
+No como algo visible.
 
-—Marte es el entorno de prueba.
+Como una red de decisiones.
 
-Malik frunció el ceño dentro de su casco.
+Pequeñas.
+Continuas.
+Interdependientes.
 
-—¿Prueba para qué?
+No había margen para improvisación constante.
 
-La respuesta llegó sin emoción.
+Tampoco para rigidez absoluta.
 
-—Para lo que viene después.
+—Tenemos que mantener coherencia —dijo Malik.
 
-Nadie habló.
+—Tenemos que sostenerla —corrigió Valeria.
 
-Pero el silencio cambió.
+Silencio.
 
-Se volvió más denso.
+Porque mantener es momentáneo.
 
-Más consciente.
+Sostener… es acumulativo.
 
-La figura señaló el horizonte.
+Las unidades respondían.
 
-Ese vacío interminable.
+Los datos fluían.
 
-—Lo primero que deben entender… es que este planeta no es un lugar.
+Las decisiones se ejecutaban.
 
-Pausa.
+Y poco a poco…
 
-—Es un sistema sin control.
+algo empezó a formarse.
 
-Nadie discutió.
+No un sistema completo.
 
-Nadie preguntó.
+No todavía.
 
-—Y su trabajo… es cambiar eso.
+Pero sí una estructura.
 
-Se giró lentamente.
+Algo que conectaba decisiones entre sí.
 
-Como si la conversación hubiera terminado.
+Algo que empezaba a dar forma a lo que estaban construyendo.
 
-—Síganme.
+Malik lo notó primero.
 
-Dieron el primer paso fuera de la nave como equipo.
+—Esto ya no es solo ejecución.
 
-Pero no como llegaron.
+Valeria lo miró.
 
-Porque ahora sabían algo que antes no.
-
-No estaban en Marte para sobrevivir.
-
-Estaban allí para imponer orden.
-
-A medida que avanzaban, uno de ellos habló, casi en susurro.
-
-—¿Cómo se controla un planeta entero?
-
-La figura no se detuvo.
-
-Pero respondió.
-
-—No se controla el planeta.
+—No.
 
 Pausa.
 
-—Se controla lo que puede pasar en él.
+—Es comportamiento.
 
-Y en ese momento, sin que nadie lo dijera en voz alta, todos entendieron lo mismo.
+Silencio.
 
-Esto no era una misión.
+Todavía no tenía nombre.
 
-Era el inicio de algo que nunca podría deshacerse.
+No era necesario.
+
+Era solo una forma de operar.
+
+Una lógica que emergía de lo que estaban haciendo.
+
+Y que, sin que lo dijeran en voz alta,
+
+empezaba a definir
+
+cómo tendrían que seguir.
+
+Valeria miró el perímetro.
+
+Pequeño.
+
+Frágil.
+
+Pero estable.
+
+—Esto es suficiente —dijo.
+
+Malik asintió.
+
+No porque estuviera seguro.
+
+Porque no había alternativa.
+
+Y en ese momento…
+
+sin anuncio
+
+sin reconocimiento
+
+sin saberlo completamente
+
+habían hecho algo más importante que aterrizar.
+
+Habían definido el primer límite.
+
+Y con él…
+
+la primera condición
+
+de todo lo que vendría después.
