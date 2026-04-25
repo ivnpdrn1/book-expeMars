@@ -1,301 +1,300 @@
-Aquí tienes el **Capítulo 2 listo para KDP**, manteniendo continuidad, tono cinematográfico y sin formato técnico ni líneas:
-
----
-
 ## Capítulo 2
 
-### Quién Puede Activar Qué
+### Identidad y Control de Acceso
 
-La estructura no era visible desde afuera.
+El sistema podía sostenerse.
 
-Pero estaba ahí.
+Pero aún no sabía quién podía usarlo.
 
-Enterrada bajo la superficie.
+Valeria lo planteó sin rodeos.
 
-Como si Marte ya supiera lo que estaban a punto de construir.
+—Nada se activa sin identidad.
 
-Caminaron en silencio durante varios minutos. El terreno era irregular, pero no lo suficiente como para explicar la precisión del trayecto. La figura no dudaba. No consultaba mapas. No verificaba coordenadas.
+Malik revisó las primeras capas.
 
-Simplemente avanzaba.
+Sensores.
+Unidades desplegadas.
+Perímetro estable.
 
-Como si ya hubiera estado allí antes.
+Todo respondía.
 
-Finalmente, se detuvo frente a una formación rocosa que no destacaba en nada.
+Pero respondía a cualquier señal válida.
 
-—Aquí —dijo.
+—Eso no es control —dijo.
 
-No había puertas.
-
-No había accesos.
-
-No había nada.
-
-Durante unos segundos, nadie entendió.
-
-Hasta que el suelo vibró.
-
-Leve.
-
-Controlado.
-
-Una línea perfecta se dibujó en la superficie. Luego otra. Y otra más.
-
-El terreno se abrió.
-
-No con violencia.
-
-Con precisión.
-
-Debajo, una estructura.
-
-Limpia.
-
-Artificial.
-
-Esperando.
-
-Nadie habló.
-
-La figura descendió primero.
-
-—Ahora sí —dijo—. Vamos a empezar.
-
-Uno a uno, los doce bajaron.
-
-El contraste fue inmediato.
-
-Afuera, caos.
-
-Adentro, control absoluto.
-
-Iluminación uniforme. Superficies sin desgaste. Interfaces activas sin intervención humana.
-
-No era una base improvisada.
-
-Era un sistema ya existente.
-
-Valeria fue la primera en notarlo.
-
-—Esto no se construyó aquí… —dijo en voz baja.
-
-—Correcto —respondió la figura—. Se activó aquí.
-
-Caminaron por un corredor largo, perfectamente simétrico.
-
-Sin puertas visibles.
-
-Sin señalización.
-
-—Antes de hablar de defensa —continuó la voz—, deben entender algo más importante.
-
-Se detuvo frente a una pared lisa.
-
-—Control.
-
-La superficie se activó.
-
-Doce columnas de luz aparecieron frente a ellos.
-
-Una por cada uno.
-
-Cada columna reaccionó a su presencia.
-
-Sin que nadie hiciera nada.
-
-—Este sistema no responde a órdenes.
-
-Pausa.
-
-—Responde a identidades.
-
-Las columnas comenzaron a mostrar datos.
-
-No genéricos.
-
-Personales.
-
-Historiales.
-
-Patrones.
-
-Decisiones pasadas.
-
-Incluso… errores.
-
-Malik dio un paso atrás.
-
-—¿Qué tan profundo llega esto?
-
-—Lo suficiente —respondió la figura— para decidir si puedes o no activar algo.
+—No —respondió Valeria—. Es exposición.
 
 Silencio.
 
-—Aquí no existe el acceso abierto.
+En la Tierra, los sistemas estaban protegidos por redundancia.
 
-—Todo está condicionado.
+Capas externas.
+Infraestructura distribuida.
+Protocolos que asumían margen de error.
 
-Valeria miró su columna.
+Marte no ofrecía ese margen.
 
-Su nombre no estaba.
+Aquí, una activación incorrecta no era un incidente.
 
-Había algo más.
+Era una consecuencia.
 
-Un identificador.
+Y las consecuencias no se diluían.
 
-Una estructura que no había visto antes.
+Se acumulaban.
 
-—¿Esto es un rango? —preguntó.
+—Primera capa —dijo Valeria—. Identidad.
 
-—No —respondió la figura—.
+Malik comenzó a definir.
 
-Pausa.
+No nombres.
 
-—Es un límite.
+No roles humanos tradicionales.
 
-Las columnas cambiaron.
+Entidades.
 
-Ahora mostraban niveles.
+Operadores.
+Unidades autónomas.
+Módulos de soporte.
 
-Capacidades.
+Cada uno debía existir dentro del sistema.
 
-Restricciones.
+No como presencia física.
 
-—Cada uno de ustedes tiene acceso a partes del sistema.
+Como referencia válida.
 
-—Nadie tiene acceso a todo.
+—Si no puede ser identificado —dijo Malik—
+—no puede operar.
 
-Uno de los técnicos levantó la voz.
+Valeria asintió.
 
-—¿Y usted?
+—Y si puede operar sin ser identificado…
 
-La figura lo miró.
-
-Sin incomodidad.
-
-Sin respuesta inmediata.
-
-—Yo tampoco.
-
-Eso cambió todo.
-
-—Este sistema —continuó— fue diseñado para que nadie pueda controlarlo completamente.
-
-—Ni siquiera quienes lo crearon.
-
-Malik frunció el ceño.
-
-—Eso no es eficiente.
-
-—Es seguro —corrigió la figura.
-
-Pausa.
-
-—La eficiencia sin control… es una amenaza.
-
-Las columnas volvieron a cambiar.
-
-Ahora mostraban escenarios.
-
-Activaciones posibles.
-
-Reacciones del sistema.
-
-—Si intentas activar algo fuera de tu nivel…
-
-Una simulación apareció.
-
-Fallo.
-
-Bloqueo.
-
-Aislamiento.
-
-—El sistema no te detiene.
-
-—Te excluye.
+—el sistema deja de ser confiable.
 
 Silencio.
 
-Valeria entendió antes que los demás.
+La primera estructura de identidad se activó.
 
-—Entonces no se trata de quién manda…
+No visible.
 
-—Se trata de quién puede —terminó la figura.
+Pero crítica.
 
-Exacto.
+Cada acción ahora requería origen.
 
-—Aquí no existen órdenes que violen el sistema.
+Cada señal tenía que pertenecer a algo.
 
-—Solo existen identidades que lo habilitan o lo limitan.
+—Esto reduce velocidad —dijo Malik.
 
-Las luces bajaron ligeramente.
-
-El entorno cambió.
-
-Se volvió más… real.
-
-Menos presentación.
-
-Más operativo.
-
-—A partir de este momento —continuó—, cada decisión que tomen será evaluada.
-
-—No por una persona.
-
-—Por el sistema.
-
-Uno de ellos preguntó:
-
-—¿Y si el sistema se equivoca?
+—Reduce error —respondió Valeria.
 
 Pausa.
 
-Más larga esta vez.
+—Aquí eso es más importante.
 
-—Entonces ustedes también.
+Silencio.
 
-Nadie respondió.
+La segunda capa fue inmediata.
 
-Porque la implicación era clara.
+Autorización.
 
-No había respaldo humano.
+No todo lo que existe puede hacer todo.
 
-No había override.
+No todo lo que responde debe decidir.
 
-—Este no es un sistema que ustedes usan —dijo la figura.
+—Definimos niveles —dijo Malik.
 
-—Es un sistema al que ustedes pertenecen.
+—No jerarquías —corrigió Valeria—. Capacidades.
 
-Las columnas comenzaron a desvanecerse.
+Silencio.
 
-Una a una.
+La diferencia importaba.
 
-Hasta que solo quedó la oscuridad tenue del pasillo.
+No estaban replicando estructuras humanas.
 
-—Primera regla —dijo mientras retomaba el camino—:
+Estaban asignando funciones sostenibles.
+
+Algunas entidades podían activar.
+
+Otras ejecutar.
+
+Otras solo observar.
+
+—Principio mínimo —dijo Valeria.
+
+Malik asintió.
+
+—Cada entidad hace solo lo necesario.
+
+—Y nada más.
+
+Silencio.
+
+Porque en Marte, exceso no es ventaja.
+
+Es riesgo.
+
+Una unidad recibió una señal.
+
+Intentó ejecutar una acción fuera de su rango.
+
+El sistema la bloqueó.
+
+—Eso no lo programamos explícitamente —dijo Malik.
+
+Valeria observó la respuesta.
+
+—No.
 
 Pausa.
 
-—Nada se activa… sin que alguien tenga derecho a hacerlo.
+—Pero era necesario.
 
-Siguieron avanzando.
+Silencio.
 
-Pero ahora no como técnicos.
+Eso era lo importante.
 
-Ni como equipo.
+El sistema no solo ejecutaba reglas.
 
-Sino como algo distinto.
+Empezaba a sostener coherencia.
 
-Algo más restringido.
+—Si algo puede hacer más de lo que debe… —dijo Malik.
 
-Más definido.
+—eventualmente lo hará —completó Valeria.
 
-Más… controlado.
+Silencio.
 
-Y por primera vez desde que llegaron, entendieron una verdad que no estaba en ninguna instrucción:
+Y ese “eventualmente” en Marte no era tolerable.
 
-No todos iban a poder hacer lo mismo.
+La tercera capa se integró.
 
-Y eso no era un problema.
+Ubicación.
 
-Era el diseño.
+No todas las decisiones debían poder tomarse en cualquier lugar.
+
+Activación remota.
+Control local.
+Dependencia del entorno.
+
+—No todo debe ser central —dijo Malik.
+
+—Ni todo distribuido —respondió Valeria.
+
+Silencio.
+
+El equilibrio no era opcional.
+
+Era estructural.
+
+Una decisión debía poder ejecutarse cerca del problema.
+
+Pero no sin validación.
+
+Y no sin contexto.
+
+—Esto se vuelve más complejo —dijo Malik.
+
+—Esto se vuelve más real —respondió Valeria.
+
+Silencio.
+
+Las primeras pruebas comenzaron.
+
+Identidades válidas.
+Accesos limitados.
+Acciones contenidas.
+
+El sistema respondió.
+
+No más rápido.
+
+Pero más preciso.
+
+—Estamos perdiendo flexibilidad —dijo Malik.
+
+—Estamos ganando estabilidad —corrigió Valeria.
+
+Silencio.
+
+La diferencia definía todo.
+
+Flexibilidad permite adaptación.
+
+Pero sin límites… genera inconsistencia.
+
+Y la inconsistencia, en este entorno, escala.
+
+Malik observó el flujo completo.
+
+—Ahora cada acción tiene origen.
+
+—Y cada origen tiene límite —respondió Valeria.
+
+Pausa.
+
+—Eso es lo que lo hace sostenible.
+
+Silencio.
+
+Y entonces ocurrió algo pequeño.
+
+Casi imperceptible.
+
+Una secuencia de decisiones se ejecutó sin conflicto.
+
+No porque no hubiera opciones.
+
+Porque ninguna fuera de rango fue considerada.
+
+—Eso no es solo control de acceso —dijo Malik.
+
+Valeria lo miró.
+
+—No.
+
+Pausa.
+
+—Es forma de decisión.
+
+Silencio.
+
+Todavía no tenía nombre.
+
+No era necesario.
+
+Pero ya no era solo un conjunto de reglas.
+
+Era una lógica.
+
+Algo que empezaba a definir no solo quién podía actuar…
+
+sino cómo debía hacerlo.
+
+Malik respiró profundo.
+
+—Esto va a escalar.
+
+Valeria asintió.
+
+—Tiene que hacerlo.
+
+Silencio.
+
+Porque si no lo hacía…
+
+todo lo demás que construyeran encima
+
+no tendría forma de sostenerse.
+
+Y en ese momento…
+
+sin reconocimiento explícito
+
+sin necesidad de validación
+
+el sistema dejó de ser una extensión de quienes lo operaban
+
+y comenzó a convertirse
+
+en algo que también
+
+los limitaba a ellos.
